@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bcamacho-dev
-- 👀 I’m interested in php, ecommerce
-- 🌱 I’m currently learning codeigniter, php, js, css and html5
-- 💞️ I’m looking to collaborate on ecommerce projects
+- 👀 I’m interested in php, laravel, filament, ai ecommerce
+- 🌱 I’m currently developing on laravel, codeigniter, php, js, css and html5
+- 💞️ I’m looking to collaborate on php projects
 - 📫 How to reach me ...
 
 <!---
